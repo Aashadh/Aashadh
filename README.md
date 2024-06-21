@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Aashadh
 - 👀 I’m interested in Learn to code
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning
+        -JavaScript
+        -ReacJS
+        -ReactNative
 - 📫 You can catch me on LinkedIn
 
 <!---
